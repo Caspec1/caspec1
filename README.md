@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caspec1" alt="caspec1" /></a> </p>
 
-- 💼 Actualmente estoy trabajando en: **Municipalidad de Copiapó**
+- 💼 Actualmente estoy trabajando en: **IMED S.A**
 
-- 🌱 Me encuentro aprendiendo más sobre: **Laravel, Ruby on Rails**
+- 🌱 Me encuentro aprendiendo más sobre: **React Native**
 
-- 👨‍💻 Mis proyectos disponibles en: [https://www.javiermirandadev.com/](https://www.javiermirandadev.com/)
+- 👨‍💻 Mis proyectos disponibles en: [https://portfolio-seven-tau-20.vercel.app/](https://portfolio-seven-tau-20.vercel.app/)
 
-- 💬 Pregúntame sobre: **React, Js, Ts, NextJs**
+- 💬 Pregúntame sobre: **React, Js, Ts, NextJs, Go**
 
 - 📫 Mi contacto: **mirandavillegasjavier@gmail.com**
 
